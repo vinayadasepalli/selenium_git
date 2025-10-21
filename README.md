@@ -15,12 +15,19 @@ This project is a simple Selenium automation framework that:
 ```
 
 selenium_project/
+
 │── tests/
+
 │   └── test_google.py          # Selenium test file
+
 │── reports/                    # HTML reports will be stored here
+
 │── requirements.txt            # Python dependencies
+
 │── README.md                   # Project documentation
+
 │── .gitignore                  # Ignored files for Git
+
 └── venv/                       # (Optional) Virtual environment
 
 ````
@@ -233,4 +240,5 @@ This gives your repo a **professional and structured look**.
 
 Would you like me to also generate a `requirements.txt` file content for you to include in the repo? (so others can set it up easily) 📦✨
 ```
+
 
