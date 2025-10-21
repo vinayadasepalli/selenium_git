@@ -1,13 +1,3 @@
-Of course ✅ — here’s a **professional `README.md`** file tailored for your **Selenium + Python + Pytest + HTML report + Git** project on a **Linux machine**.
-
-You can copy this into the root of your project as:
-
-```
-README.md
-```
-
----
-
 ```markdown
 # 🧪 Selenium Automation Framework (Python + Pytest + HTML Report)
 
@@ -243,3 +233,4 @@ This gives your repo a **professional and structured look**.
 
 Would you like me to also generate a `requirements.txt` file content for you to include in the repo? (so others can set it up easily) 📦✨
 ```
+
